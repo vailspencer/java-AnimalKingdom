@@ -1,8 +1,8 @@
-package animaljava;
+package animalsjava;
 
-public class Fish extends Animals{
+public class Fish extends Animal{
 	public Fish(String name, int yearDiscovered){
-		super(name, yearDiscovered);
+		super(name,yearDiscovered);
 	}
 
 	@Override

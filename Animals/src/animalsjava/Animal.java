@@ -21,7 +21,7 @@ abstract class Animal{
 	}
 
 	int getYear(){
-		return yearDiscovered;
+		rseturn yearDiscovered;
 	}
 
 	public Animal(String name, int yearDiscovered){

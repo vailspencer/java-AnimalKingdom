@@ -1,6 +1,6 @@
-package animaljava;
+package animalsjava;
 
-public class Birds extends Animal{
+public class Bird extends Animal{
 
 	public Bird(String name, int yearDiscovered){
 		super(name, yearDiscovered);
