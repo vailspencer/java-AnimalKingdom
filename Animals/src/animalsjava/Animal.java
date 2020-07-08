@@ -17,11 +17,11 @@ abstract class Animal{
 	}
 
 	String getName(){
-		this.name = name;
+		return name;
 	}
 
 	int getYear(){
-		rseturn yearDiscovered;
+		return yearDiscovered;
 	}
 
 	public Animal(String name, int yearDiscovered){

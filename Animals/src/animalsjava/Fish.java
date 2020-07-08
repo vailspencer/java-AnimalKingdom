@@ -7,7 +7,7 @@ public class Fish extends Animal{
 
 	@Override
 	public String canBreath(){
-		return 'Gills';
+		return "Gills";
 	}
 
 	@Override

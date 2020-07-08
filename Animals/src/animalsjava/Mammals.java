@@ -1,8 +1,8 @@
 package animalsjava;
 
-public class Mammal extends Animal{
+public class Mammals extends Animal{
 
-	public Mammal(String name, int yearDiscovered){
+	public Mammals(String name, int yearDiscovered){
 		super(name, yearDiscovered);
 	}
 
